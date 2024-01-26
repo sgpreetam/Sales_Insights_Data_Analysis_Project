@@ -66,4 +66,4 @@ The Sales Director proposed for the creation of an intutive Power BI dashboard f
 
 <p align="center"><img width="100%" alt="Screenshot 2024-01-24 211508" src="https://github.com/sgpreetam/Sales_insights_Data_Analysis_Project/assets/139052998/32b073b5-d921-4b5c-90d4-0c659eeb6a3d"></p>p>
 
-<p align="center"><img width="100%" alt="Screenshot 2024-01-24 211545" src="https://github.com/sgpreetam/Sales_insights_Data_Analysis_Project/assets/139052998/aa4e6786-7462-4c09-af29-b33544bee234"></p>p>
+<p align="center"><img width="100%" alt="Screenshot 2024-01-24 211545" src="https://github.com/sgpreetam/Sales_insights_Data_Analysis_Project/assets/139052998/aa4e6786-7462-4c09-af29-b33544bee234"></p>
